@@ -1,0 +1,5 @@
+for i in range(10,0,2):
+    print(i)
+for a in range(10,0,-2):
+    print(a,end = '')
+sum = 0
