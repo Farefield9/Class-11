@@ -1,6 +1,3 @@
-a = [4,7,8,9,6,4,2,3,4,5]
-a = sum(list)
-print(a)
 dict = {'mohan':45,2.5:55}
 dict1 = dict['meena']=42
 print(dict)
