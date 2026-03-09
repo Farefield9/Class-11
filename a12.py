@@ -7,3 +7,6 @@ print(list3)
 list = [4,5,8,7,9,6,3,21,4]
 for i in list:
     print(i)
+a = [4,7,8,9,6,4,2,3,4,5]
+a = sum(list)
+print(a)
